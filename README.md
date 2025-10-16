@@ -10,3 +10,5 @@ Where "tab" is replaced with tabs
 Be sure you only have one file named data.tsv in the folder at a time when you run the program, lest ye face unpredictable errors and/or results.
 
 the program uses several O(n) complexity algorithms to parse the data, so this program is only viable on smaller scales.
+
+included is a sample data.tsv file that was used fo rthe project
